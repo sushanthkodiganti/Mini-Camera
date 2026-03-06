@@ -7,6 +7,10 @@ Hardware:
 2. Waveshare Pico 1.14 inch 240x135 ST7789 TFT display
 3. 6x6x5 push button as a shutter for the camera
 
+<img src="images/xiao pin layout.jpg" width="500">
+<img src="images/waveshare pin layout.jpg" width="500">
+
+
 Pin connections are as follows:
 | XIAO PIN | GPIO Number | Connected to                     |
 |----------|-------------|----------------------------------|
